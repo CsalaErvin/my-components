@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="description" content="Components_Flat-buttons">
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.css">
+  <title>Flat buttons</title>
+</head>
+<body>
+  <section>
+    <h3>Flat button example</h3>
+    <a href="#" class="btn btn-previous">Previous</a>
+    <a href="#" class="btn btn-next">Next</a>
+  </section>
+</body>
+</html>
