@@ -1,1 +1,1 @@
-A fully responsive wedding website.
+A mobile-first, fully responsive single page site.
